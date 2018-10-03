@@ -53,6 +53,6 @@ MIT
 https://www.halifax.ca/home/open-data/open-data-license
 
 
-**Final Time for submission is 1PM**
+**Final Time for submission is Thusday midnight**
 
 
